@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @doi-zen
+- 👀 I’m interested in Python development.
+- 🌱 I’m currently learning about bots.
+- 💞️ I’m looking to collaborate on any Python project.
